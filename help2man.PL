@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/sw/perl/bin/perl
 
 #
 # Self extracting help2man script.
